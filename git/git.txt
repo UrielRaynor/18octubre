@@ -1,0 +1,17 @@
+git -- version
+
+git config --global user.name "Uriel Raynor"
+git config --global user.email "starcraft.uriel@gmail.com"
+
+git init   inciar repositorio git vacio
+
+git status estado actual del repositorio
+
+git add .    prepara los archivos para ser commits
+
+git commit  -m   "nombre del commit"
+
+git log  Registro con tu commit reciente
+
+git config  --list
+
